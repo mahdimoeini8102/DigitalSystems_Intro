@@ -11,5 +11,5 @@ Some gate's outputs never become High Impedance. So, for such gates, we have jus
 Some schematics for gates that have been described in the project are as follow:
 <img src="/Images/NAND.png" height="300"/>
 <img src="/Images/TriStateBuffer.png" height="300"/>
-<img src="/Images/MUX1.png" height="300"/>
+<img src="/Images/MUX.png" height="300"/>
 <img src="/Images/MUX2.png" height="300"/>
